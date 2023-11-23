@@ -1,0 +1,24 @@
+[
+	{
+		"DisableLocalBuilds": false,
+		"DisableGithubBuilds": false,
+		"MaxGithubReleasesPerRepo": 0,
+		"OldestGithubRelease": "",
+		"EnableLocalCache": false,
+		"EnableGithubCache": true,
+		"LocalCacheTimeout": 86400,
+		"GithubCacheTimeout": 86400,
+		"OTAListTemplate": "ota-list-tables",
+		"BrandName": "",
+		"LocalHomeURL": "",
+		"GithubHomeURL": "",
+		"DeviceNames": {
+			"kebab": "8T",
+			"lemonade": "9"
+		},
+		"DeviceVendors": {
+			"kebab": "Oneplus",
+			"lemonade": "Oneplus"
+		}
+	}
+]
